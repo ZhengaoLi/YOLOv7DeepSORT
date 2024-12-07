@@ -1,0 +1,12 @@
+/Dataset1.0/
+/logs/
+/model_data/yolov7_backbone_weights.pth
+/model_data/yolov7_x_backbone_weights.pth
+/model_data/yolov7_weights.pth
+/model_data/yolov7_x_weights.pth
+/__pycache__/
+/*.avi
+/test_result/
+/deep_sort_pytorch/ckpts/
+/*.pth
+
